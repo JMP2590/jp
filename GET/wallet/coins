@@ -1,0 +1,25 @@
+
+
+{
+  "success": true,
+  "result": [
+    {
+      "bep2Asset": null,
+      "canConvert": true,
+      "canDeposit": true,
+      "canWithdraw": true,
+      "collateral": true,
+      "collateralWeight": 0.975,
+      "creditTo": 0x12e0b5AF291Dc5cdE57efbab9fC9A85c9DFE6833 ,
+      "erc20Contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "fiat": false,
+      "hasTag": false,
+      "id": "USDT",
+      "isToken": false,
+      "methods": ["omni", "erc20", "trx"],
+      "spotMargin": true,
+      "name": "USD Tether",
+      "trc20Contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "usdFungible": false
+    }
+  ]
