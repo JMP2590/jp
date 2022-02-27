@@ -17,7 +17,7 @@
       "id": "USDT",
       "isToken": false,
       "methods": ["omni", "erc20", "trx"],
-      "spotMargin": true,
+      "spotMargin": false,
       "name": "USD Tether",
       "trc20Contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
       "usdFungible": false
