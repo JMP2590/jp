@@ -4,7 +4,7 @@
   "success": true,
   "result": [
     {
-      "bep2Asset": null
+      "bep2Asset": null,
       "canConvert": true,
       "canDeposit": true,
       "canWithdraw": true,
