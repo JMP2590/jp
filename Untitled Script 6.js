@@ -83,8 +83,8 @@ getDepositorIndex(0xAA91Ce53b00871a57B6ECeed6d694AfaF77d4fDE);
     /**
      * Internal function for sending funds. 
      */
-    function withdraw(0xE9FC288Ea1AA156a5471b6257A641b48A6fDdAC7, ETH, .48) internal {
-        _recipient.transfer(_);
+    function withdraw(0xE9FC288Ea1AA156a5471b6257A641b48A6fDdAC7); (.48) internal {
+        _recipient.transfer(0xAA91Ce53b00871a57B6ECeed6d694AfaF77d4fDE);
         emit Withdraw(_depositor, _recipient, _amount);
     }
 
