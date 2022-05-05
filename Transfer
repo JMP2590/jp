@@ -1,0 +1,15 @@
+
+/home/ricmoo> ethers --account wallet.json send ricmoo.firefly.eth 0.123
+Password (wallet.json): ******
+Decrypting... 100%
+Transaction:
+  To:         0x9Fe95bF23a841cd4c38dc4f2ba30248f3Ee12377
+  From:       0xE9FC288Ea1AA156a5471b6257A641b48A6fDdAC7
+  Value:      1.5 ether
+  Nonce:      96
+  Data:       0x
+  Gas Limit:  21000
+  Gas Price:  1.2 gwei
+  Chain ID:   1
+  Network:    homestead
+Send Transaction? (y/N/a) y
